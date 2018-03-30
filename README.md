@@ -1,4 +1,4 @@
-### Occurence Counter
+### Occurrence Counter
 
 Travis CI
 ___
